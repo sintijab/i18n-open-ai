@@ -1,0 +1,4 @@
+.remirror-theme .ProseMirror {
+  box-shadow: none !important;
+  overflow-y: hidden !important;
+}

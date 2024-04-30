@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "items": {
+      "speakers": "Runas",
+      "schedule": "Plānošana",
+      "workshops": "Darbnīcas",
+      "venue": "Vieta",
+      "awards": "OS balvas",
+      "events": "Iepriekšējie notikumi",
+      "sponsors": "Sponsoru",
+      "faq": "BUJ"
+    }
+  }
+}

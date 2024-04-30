@@ -1,0 +1,14 @@
+{
+  "navigation": {
+    "items": {
+      "speakers": "Referenten",
+      "schedule": "Zeitplan",
+      "workshops": "Workshops",
+      "venue": "Veranstaltungsort",
+      "awards": "OS Awards",
+      "events": "Vorveranstaltungen",
+      "sponsors": "Sponsoren",
+      "faq": "FAQ"
+    }
+  }
+}
